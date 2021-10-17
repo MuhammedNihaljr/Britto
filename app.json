@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-bot",
   "description": "whatsapp bot build with nodejs",
-  "repository": "https://github.com/sparroo/jarvisv3",
+  "repository": "https://github.com/MuhammedNihaljr/Britto",
   "logo": "https://i.imgur.com/RO3XbB1.jpeg",
   "keywords": ["nodejs", "bot", "heroku"]
 }
